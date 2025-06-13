@@ -1,0 +1,53 @@
+
+.headers {
+    text-align: center;
+    color:black
+}
+
+
+
+#opinions {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    font: 20px Arial, sans-serif;
+}
+
+.page1 {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#lists {
+    text-align : left;
+}
+
+#image {
+    text-align: right;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+table:hover{
+    background-color: lightyellow;
+    font: 24px Arial, sans-serif;
+}
+
+#container {
+    display: flex;
+    flex-wrap:wrap;
+    margin : 20px;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+}
+
